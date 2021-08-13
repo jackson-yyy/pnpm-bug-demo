@@ -1,1 +1,1 @@
-# pnpm-bug-demo
+# vue-demi-bug-demo
